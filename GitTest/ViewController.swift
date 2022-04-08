@@ -18,6 +18,7 @@ class ViewController: UIViewController {
 
     @IBAction func sendBtnAction(_ sender: Any) {
         print("TestBranch")
+        print("Test check")
     }
 }
 
